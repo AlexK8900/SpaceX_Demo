@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SpaceX Demo</string>
+    
+    <string name="main_fragment_title">Launches</string>
 </resources>
